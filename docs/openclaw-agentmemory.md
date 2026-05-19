@@ -2,6 +2,8 @@
 
 This records the working OpenClaw-specific setup used on an OpenClaw host where the gateway runs as a user systemd service.
 
+Upstream project: [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)
+
 ## Tested Versions
 
 | Component | Version |
