@@ -6,3 +6,6 @@ Practical setup notes for agent tooling on OpenClaw-managed hosts.
 
 - [Install agentmemory for OpenClaw](docs/openclaw-agentmemory.md)
 
+## Skills
+
+- [nostr-post skill](skills/nostr-post-skill/)
